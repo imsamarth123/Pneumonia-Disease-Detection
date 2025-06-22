@@ -3,8 +3,8 @@
 ## User Interface
 
 ### Home page
-![Home Page](Demo/Images/Home_page.png){: width="600"}
-![Results Page](Demo/Images/Home_page_2.png){: width="400"}
+<img src="Demo/Images/Home_page.png" alt="Home Page Screenshot" width="600"/>
+<img src="Demo/Images/Home_page.png" alt="Result Page Screenshot" width="400"/>
 
 ### History Page
 ![Home Page](Demo/Images/History_page.png){: width="600"}
