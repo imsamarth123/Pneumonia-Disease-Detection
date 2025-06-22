@@ -3,17 +3,17 @@
 ## User Interface
 
 ### Home page
-<img src="Demo/Images/Home_page.png" alt="Home Page Screenshot" width="400"/>
-<img src="Demo/Images/Home_page_2.png" alt="Result Page Screenshot" width="400"/>
+<img src="Demo/Images/Home_page.png" alt="Home Page Screenshot" width="700"/>
+<img src="Demo/Images/Home_page_2.png" alt="Result Page Screenshot" width="700"/>
 
 ### History Page
-<img src="Demo/Images/History_page.png" alt="Result Page Screenshot" width="500"/>
+<img src="Demo/Images/History_page.png" alt="Result Page Screenshot" width="700"/>
 
 ### About Page
-<img src="Demo/Images/About_page.png" alt="Home Page Screenshot" width="500"/>
+<img src="Demo/Images/About_page.png" alt="Home Page Screenshot" width="700"/>
 
 ### Prediction Page
-<img src="Demo/Images/Prediction_page.png" alt="Home Page Screenshot" width="500"/>
+<img src="Demo/Images/Prediction_page.png" alt="Home Page Screenshot" width="700"/>
 
 
 
