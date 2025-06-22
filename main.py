@@ -38,7 +38,7 @@ def model_prediction(test_image):
     try:
         image = Image.open(test_image).convert('RGB').resize((64,64))
         input_arr = tf.keras.preprocessing.image.img_to_array(image)
-        input_arr = np.array([input_arr]) / 127.0  # Normalize
+        input_arr = np.array([input_arr]) / 63.0  # Normalize
         logger.info("Image preprocessed successfully")
         prediction = model.predict(input_arr, verbose=0)
         return np.argmax(prediction), np.max(prediction)  # Return index and confidence
