@@ -33,5 +33,3 @@ Access the live application at:
 - **Model Architecture**: Convolutional Neural Network (CNN)
 - **Training Data**: Chest X-ray images from public datasets
 - **Deployment**: Streamlit Community Cloud
-
-## 📂 Project Structure
