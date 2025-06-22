@@ -1,6 +1,21 @@
 # Pneumonia Detection from Chest X-rays
 
-![Pneumonia Detection App Screenshot](Demo/Images/Home_page.png)
+## User Interface
+
+### Home page
+![Home Page](Demo/Images/Home_page.png){: width="600"}
+![Results Page](Demo/Images/Home_page_2.png){: width="400"}
+
+### History Page
+![Home Page](Demo/Images/History_page.png){: width="600"}
+
+### About Page
+![Home Page](Demo/Images/About_page.png){: width="600"}
+
+### Prediction Page
+![Home Page](Demo/Images/Prediction_page.png){: width="600"}
+
+
 
 A web application that uses deep learning to detect pneumonia from chest X-ray images with immediate results.
 
