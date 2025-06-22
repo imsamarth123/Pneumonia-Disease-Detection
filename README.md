@@ -1,6 +1,6 @@
 # Pneumonia Detection from Chest X-rays
 
-![Pneumonia Detection App Screenshot](https://via.placeholder.com/800x400?text=Pneumonia+Detection+Screenshot)
+![Pneumonia Detection App Screenshot](Demo/Images/Home_page.png)
 
 A web application that uses deep learning to detect pneumonia from chest X-ray images with immediate results.
 
