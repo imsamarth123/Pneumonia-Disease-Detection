@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-rays
+# PnemoAI: Pneumonia Detection from Chest X-rays
 
 ## User Interface
 
