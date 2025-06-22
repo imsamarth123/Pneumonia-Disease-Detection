@@ -3,8 +3,8 @@
 ## User Interface
 
 ### Home page
-<img src="Demo/Images/Home_page.png" alt="Home Page Screenshot" width="500"/>
-<img src="Demo/Images/Home_page_2.png" alt="Result Page Screenshot" width="500"/>
+<img src="Demo/Images/Home_page.png" alt="Home Page Screenshot" width="400"/>
+<img src="Demo/Images/Home_page_2.png" alt="Result Page Screenshot" width="400"/>
 
 ### History Page
 <img src="Demo/Images/History_page.png" alt="Result Page Screenshot" width="500"/>
